@@ -1,0 +1,70 @@
+body{
+    background-color: #eff6ff;
+}
+.cs{
+    background-color: white;
+}
+.container{
+    box-shadow: 1px 1px 20px #e7e1e1;
+    margin-top: 2%;
+}
+
+.left-side{
+    background-image: url(../img/image.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.social-media{
+    width: 205px;
+    height: 45px;
+    border: none;
+    color: white;
+}
+.Facebook{
+    background-color: #255a9b;
+}
+
+
+.Linkedin{
+    background-color: #0076b6;
+}
+
+.registration{
+    width: 205px;
+    height: 45px;
+    padding: 4%;
+}
+
+.form-check-label{
+    font-size: 14px;
+}
+
+.neutral{
+    font-size: 14px;
+    border: none;
+    box-shadow: 2px 2px 2px 3px rgb(172, 172, 172);
+    
+}
+
+hr{
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+    width: 93%;
+}
+  
+hr:after {
+    background: #fff;
+    content: 'OR';
+    padding: 0 4px;
+    position: relative;
+    top: -13px;
+}
+
+.create{
+    border: none;
+    background-color: #3698FB;
+    border-radius: 5px;
+}
